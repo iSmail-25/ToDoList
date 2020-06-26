@@ -1,0 +1,21 @@
+.tsk{
+    border: 1px solid rgb(224, 208, 208);
+    border-bottom-left-radius: 10% solid rgb(243, 227, 227);
+}
+.tsk:hover{
+    /* border: 1px solid black; */
+    box-shadow: 0 0 20px rgba(107, 104, 104, 0.1);
+    background: #fff;
+}
+
+.fa-check{
+    color: green;
+    font-size: 23px !important;
+    float: right;
+}
+
+.fa-ban{
+    color: red;
+    font-size: 23px !important;
+    float: right;
+}

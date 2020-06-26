@@ -1,0 +1,12 @@
+@media (min-width: 800px) {
+    .tabs h1 {
+      font-size: 3rem;
+    }
+    .tabs h3{
+      font-size: 1rem;
+    }
+  
+    .tab {
+      font-size: 1rem;
+    }
+}
